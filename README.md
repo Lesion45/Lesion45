@@ -1,6 +1,9 @@
 ## Hi there 👋
-
-<!--
+* 👨‍🦱 I'm @Lesion45. My real name is Egor Kulagin. I live in Russia, Moscow
+* 🔭 I'm studying at RTU MIREA. My major is Computer Science (Information technology and systems).
+* 👨🏻‍💻 I'm Golang back-end developer.
+* 📫 You can contact me by e-mail - EgorKulagin2005@yandex.ru or telegram - @gogi4ru
+<! --
 **Lesion45/Lesion45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡️ Fun fact: ...
 -->
